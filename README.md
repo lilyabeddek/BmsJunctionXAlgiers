@@ -18,3 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 Before running the project : you need to run the cmd 
 flutter pub get 
 to get the missing packages
+
+Once the application is launched : you cas use thi account to connect 
+numero : +213558489688
+passwd : 123
+
+You can start adding a new report and notice that the app take automatically your exact position
