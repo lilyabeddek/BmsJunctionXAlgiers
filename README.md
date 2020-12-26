@@ -24,3 +24,4 @@ numero : +213558489688
 passwd : 123
 
 You can start adding a new report and notice that the app take automatically your exact position
+Pour le moment l'application ne marche que sur android à cause de quelque parametrages firebase.
